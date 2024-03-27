@@ -1,4 +1,4 @@
-### Olá Mundo, sou Dislaybson Kels, estudo engenharia elétrica e almejo em desenvolver na área de TI. ⚡
+### Olá Mundo, sou Dislaybson Kels, estudo engenharia elétrica e almejo me aprofundar na área de TI. ⚡
 
 <table>
   <a href="https://github.com/dislaybim">
