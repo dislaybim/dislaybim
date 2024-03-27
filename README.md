@@ -7,7 +7,7 @@
 </table>
 
 ### Skills:
-<div style="display: inline_block"><br> 
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Csharp" height=60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-Csharp" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
